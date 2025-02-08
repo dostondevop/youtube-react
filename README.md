@@ -59,8 +59,8 @@ Works across desktop, tablet, and mobile screens using CSS media queries.
 **🚀 How to Run the Project Locally**
 
 **1️⃣ Clone the Repository**
-`git clone https://github.com/yourusername/VidTube.git
-cd VidTube`
+`git clone git@github.com:dostondevop/youtube-react.git
+cd youtube-react`
 
 **2️⃣ Install Dependencies**
 `npm install`
