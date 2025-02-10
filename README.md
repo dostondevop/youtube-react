@@ -34,28 +34,6 @@ Works across desktop, tablet, and mobile screens using CSS media queries.
 
 🖥️ **Project Structure**
 
-`/vidtube
-├── node_modules
-├── public
-├── src
-│   ├── assets
-│   ├── components
-│   │   ├── feed
-│   │   │   ├── Feed.css
-│   │   │   ├── Feed.jsx
-│   │   ├── navbar
-│   │   │   ├── Navbar.css
-│   │   │   ├── Navbar.jsx
-│   ├── pages
-│   │   ├── Home.js
-│   │   ├── VideoPage.js
-│   ├── App.jsx
-│   ├── index.css
-│   ├── main.jsx
-├── index.html
-├── favicon.ico
-├── package.json
-├── README.md`
 **🚀 How to Run the Project Locally**
 
 **1️⃣ Clone the Repository**
